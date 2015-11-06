@@ -1,7 +1,8 @@
 ## guntbert's intro
 
-- [ ] guntbert
-- [ ] from Austria
-- [ ] I like apples
-- [ ] guitar
-- [ ] **green**
+**guntbert**
+**from Austria**
+**I like apples**
+**guitar**
+**green**
+*Graz*
